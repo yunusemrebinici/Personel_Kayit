@@ -8,3 +8,4 @@ Bu proje Murat Yücedağ  tarafından Udemy üzerinde yayınlnamış, Personel K
 ![image alt](https://github.com/yunusemrebinici/Personel_Kayit/blob/master/Personel%20Formu.png?raw=true)
 ![image alt](https://github.com/yunusemrebinici/Personel_Kayit/blob/master/%C4%B0statistik.png?raw=true)
 ![image alt](https://github.com/yunusemrebinici/Personel_Kayit/blob/master/Grafikler.png?raw=true)
+![image alt](https://github.com/yunusemrebinici/Personel_Kayit/blob/master/Sql.png?raw=true)
